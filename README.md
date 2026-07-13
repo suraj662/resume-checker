@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 AI Resume Checker (ATS Analyzer)
 
 > A full-stack, offline-first AI application that analyzes your resume against job descriptions, provides an ATS match score, and suggests improvements.
